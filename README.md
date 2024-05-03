@@ -4,6 +4,6 @@
 - 리스트 1
 - 리스트 2
 
-[네이버].(http://www.naver.com)
+[네이버].(http://www.naver.com).
 
-[구글].(http://google.com)
+[구글].(http://google.com).
